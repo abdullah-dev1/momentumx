@@ -263,7 +263,7 @@ Swagger API docs: `http://127.0.0.1:8000/docs`
 # 1. Clone the Flutter repo
 git clone https://github.com/abdullah-dev1/momentumx.git
 cd momentumx
-
+cd momentumx-main
 # 2. Install dependencies
 flutter pub get
 
@@ -344,10 +344,4 @@ CS Student @ FAST-NUCES Faisalabad, Pakistan
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-Made with ❤️ in Faisalabad, Pakistan
-</div>
 
