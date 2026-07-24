@@ -18,12 +18,44 @@ A full-stack fitness and habit tracking Android app built with Flutter and FastA
 
 ---
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Logo](assets/screenshots/logo.png) | ![Signup](assets/screenshots/signup.png) | ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) |
-| Logo | Signup | Login | Home |
-| ![Workout](assets/screenshots/workout.png) | ![Nutrition](assets/screenshots/nutrition.png) | ![Progress](assets/screenshots/progress.png) | ![Support](assets/screenshots/support.png) |
-| Workout | Nutrition | Progress | Help & Support |
+<table>
+  <tr>
+    <td align="center">
+  <img src="assets/screenshots/logo.png" width="200">
+</td>
+    <td align="center">
+      <img src="assets/screenshots/signup.png" width="200"><br>
+      <b>Signup</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/login.png" width="200"><br>
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/home.png" width="200"><br>
+      <b>Home</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/workout.png" width="200"><br>
+      <b>Workout</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/nutrition.png" width="200"><br>
+      <b>Nutrition</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/progress.png" width="200"><br>
+      <b>Progress</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/support.png" width="200"><br>
+      <b>Help & Support</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
