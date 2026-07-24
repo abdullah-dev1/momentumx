@@ -20,8 +20,8 @@ A full-stack fitness and habit tracking Android app built with Flutter and FastA
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| ![Splash](assets/screenshots/splash.png) | ![Signup](assets/screenshots/signup.png) | ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) |
-| Splash | Signup | Login | Home |
+| ![Logo](assets/screenshots/logo.png) | ![Signup](assets/screenshots/signup.png) | ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) |
+| Logo | Signup | Login | Home |
 | ![Workout](assets/screenshots/workout.png) | ![Nutrition](assets/screenshots/nutrition.png) | ![Progress](assets/screenshots/progress.png) | ![Support](assets/screenshots/support.png) |
 | Workout | Nutrition | Progress | Help & Support |
 
